@@ -1,10 +1,10 @@
 # Juba
 Light-weight nitro sniper, written in Python.
-# Installation
+## Installation
 Run the `install.bat` file which I made for easier installation, and after that try running `start.bat`
-# Configuration
+## Configuration
 Juba allows you to change your token, and the theme of it. Open the `config.json` file, and edit the `token`, and maybe the `color` as well. 
-# Hosting
+## Hosting
 <table>
 <tr>
 <th> Self-hosting </th>
